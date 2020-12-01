@@ -280,20 +280,20 @@ apose_license.xml应放在src里面的resources路径下，其实放在其他地
 
 template_result.docx 模板内容：
 
-![01](.statics/templates/01.png)
+![01](./statics/images/01.png)
 
 
 test_segment_list_PC0022.docx 模板内容：
 
-![02](.statics/templates/02.png)
+![02](./statics/images/02.png)
 
 drug_detail.docx 模板内容：
 
-![03](.statics/templates/03.png)
+![03](./statics/images/03.png)
 
 citation.docx 模板内容：
 
-![04](.statics/templates/04.png)
+![04](./statics/images/04.png)
 
 
 - [x] 实现效果，直接看 PDF 效果吧：
@@ -302,10 +302,10 @@ citation.docx 模板内容：
 
 页眉、页脚、内容，其中内容包含复杂的类型：表格循环、区块对循环
 
-![05](.statics/templates/05.png)
+![05](./statics/images/05.png)
 
 
-![06](.statics/templates/06.png)
+![06](./statics/images/06.png)
 
 
 - [x] 注意的地方：
