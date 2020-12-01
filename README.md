@@ -265,7 +265,6 @@ apose_license.xml应放在src里面的resources路径下，其实放在其他地
 
 #### 05、笔者在写此 README.md 的时候，使用的版本依赖是:
 ```
-    <!--poi-tl word模板填充-->
     <dependency>
         <groupId>com.deepoove</groupId>
         <artifactId>poi-tl</artifactId>
