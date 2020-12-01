@@ -17,7 +17,7 @@
 
         String templateName = "template_result.docx";
 
-        String path = "D:\\bdls\\upload\\templates\\";
+        String path = "D:\\demo\\upload\\templates\\";
         String test_segmentName = path + "test_segment_list_PC0022.docx";
         String drug_detailName = path + "drug_detail.docx";
         String citationName = path + "citation.docx";
